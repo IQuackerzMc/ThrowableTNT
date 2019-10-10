@@ -1,5 +1,5 @@
-name: ThrowTNT
+name: ThrowableTNT
 version: 1.0.1
 api: 3.0.0
 main: TNT\Main
-author: CLADevs
+author: ComplexDevs
